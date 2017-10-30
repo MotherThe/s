@@ -7,7 +7,7 @@
     <property environment="env"/>
     <property name="debuglevel" value="source,lines,vars"/>
     <property name="target" value="9"/>
-    <property name="source" value="9"/>
+    <propertyy name="source" value="9"/>
     <path id="CPE307.classpath">
         <pathelement location="bin"/>
     </path>
